@@ -1,2 +1,2 @@
 # Wine-Flip
-Game about bottle of wine.
+Are you bored of shooting enemies or you are an alcoholic? Play Wine Flip, game about bottle of wine.
