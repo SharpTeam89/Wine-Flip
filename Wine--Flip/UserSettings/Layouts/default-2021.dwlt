@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 31015
+  controlID: 10333
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 30923
+  controlID: 10334
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 30924
+  controlID: 10335
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -297,8 +297,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 334
-    y: 72.66667
+    x: 335
+    y: 19
     width: 1014
     height: 610.3333
   m_ViewDataDictionary: {fileID: 0}
@@ -338,7 +338,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -347,23 +347,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 1014
-      height: 589.3333
-    m_Scale: {x: 0.5941406, y: 0.5941406}
-    m_Translation: {x: 507, y: 294.66666}
+      width: 1706.6666
+      height: 886
+    m_Scale: {x: 0.92291665, y: 0.92291665}
+    m_Translation: {x: 853.3333, y: 443}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -853.3334
-      y: -495.95444
-      width: 1706.6667
-      height: 991.9089
+      x: -924.605
+      y: -480
+      width: 1849.21
+      height: 960
     m_MinimalGUI: 1
-  m_defaultScale: 0.5941406
-  m_LastWindowPixelSize: {x: 1521, y: 915.5}
+  m_defaultScale: 0.92291665
+  m_LastWindowPixelSize: {x: 2560, y: 1360.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -400,9 +400,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 566f0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 78defdffbcdefdfffadefdff82dffdff60e1fdff9ee1fdffece1fdffcce2fdfffee5fdffdee6fdffbce8fdff9ceafdffeaeafdff28ebfdff06edfdff44edfdff82edfdff0aeefdff0aeffdffb2fffdff1810feff5410feff8610fefffc10feff5818feff8818feff2819feff6419feff9c19feffcc19feffaab2feff869bffff48c8ffffdecbffff2eccffff42faffffe4faffff7e640000cc6400004e690000100901005438010006540100f45801005a870200
+      m_SelectedIDs: 50fb0000
+      m_LastClickedID: 64336
+      m_ExpandedIDs: dc41ffffe241ffffee41fffff441fffffe41ffff1c42ffffba43ffffd644fffff045ffff3c4bffffb24bfffff67affffd07dffff0481ffff1484ffffb486fffffe88ffff268bffff808fffffcad1ffff68d4ffffc2d9ffff5cdbfffff6dcffffd4deffff6ee0ffff08e2ffffa4e3ffff84e4ffff70e7ffffaef3ffff68f5ffffa8f5fffff6f5ffffd6f6fffff6f8ffffe0faffff92f6000050fb000058fb0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 24.666666}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -673,9 +673,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.04802996, y: -1.9303863, z: -9.579539}
+    m_Target: {x: 2.6598172, y: 1.5334097, z: 5.794512}
     speed: 2
-    m_Value: {x: -0.23966202, y: -2.1147466, z: -9.575792}
+    m_Value: {x: 2.8528945, y: 1.6796942, z: 5.792522}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -726,9 +726,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.701573
+    m_Target: 4.2228646
     speed: 2
-    m_Value: 8.326864
+    m_Value: 4.421848
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -794,22 +794,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\vsmis\OneDrive\Dokumenty\GitHub\Wine-Flip\Wine--Flip
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1e6f0000
-    m_LastClickedID: 28446
-    m_ExpandedIDs: 00000000f46e000000ca9a3bffffff7f
+    m_SelectedIDs: a2640000
+    m_LastClickedID: 25762
+    m_ExpandedIDs: 000000008a64000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -837,7 +837,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f46e000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000008a64000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -864,7 +864,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -951,7 +951,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 165630
+  m_LastSelectedObjectID: -48648
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
