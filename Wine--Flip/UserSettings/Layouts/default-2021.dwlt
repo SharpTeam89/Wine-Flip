@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 10333
+  controlID: 70
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 10334
+  controlID: 118
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 10335
+  controlID: 119
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -347,23 +347,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 1706.6666
-      height: 886
-    m_Scale: {x: 0.92291665, y: 0.92291665}
-    m_Translation: {x: 853.3333, y: 443}
+      width: 1014
+      height: 589.3333
+    m_Scale: {x: 0.5941406, y: 0.5941406}
+    m_Translation: {x: 507, y: 294.66666}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -924.605
-      y: -480
-      width: 1849.21
-      height: 960
+      x: -853.3334
+      y: -495.95444
+      width: 1706.6667
+      height: 991.9089
     m_MinimalGUI: 1
-  m_defaultScale: 0.92291665
-  m_LastWindowPixelSize: {x: 2560, y: 1360.5}
+  m_defaultScale: 0.5941406
+  m_LastWindowPixelSize: {x: 1521, y: 915.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -400,9 +400,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 50fb0000
-      m_LastClickedID: 64336
-      m_ExpandedIDs: dc41ffffe241ffffee41fffff441fffffe41ffff1c42ffffba43ffffd644fffff045ffff3c4bffffb24bfffff67affffd07dffff0481ffff1484ffffb486fffffe88ffff268bffff808fffffcad1ffff68d4ffffc2d9ffff5cdbfffff6dcffffd4deffff6ee0ffff08e2ffffa4e3ffff84e4ffff70e7ffffaef3ffff68f5ffffa8f5fffff6f5ffffd6f6fffff6f8ffffe0faffff92f6000050fb000058fb0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: e0faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -459,8 +459,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -98.66669, y: -26}
+      snapOffset: {x: -101, y: -26}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -673,9 +673,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.6598172, y: 1.5334097, z: 5.794512}
+    m_Target: {x: 2.404222, y: -1.5877581, z: 6.795154}
     speed: 2
-    m_Value: {x: 2.8528945, y: 1.6796942, z: 5.792522}
+    m_Value: {x: 2.404222, y: -1.5877581, z: 6.795154}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -726,9 +726,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 4.2228646
+    m_Target: 16.098135
     speed: 2
-    m_Value: 4.421848
+    m_Value: 16.098135
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -794,22 +794,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\vsmis\OneDrive\Dokumenty\GitHub\Wine-Flip\Wine--Flip
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a2640000
-    m_LastClickedID: 25762
-    m_ExpandedIDs: 000000008a64000000ca9a3bffffff7f
+    m_SelectedIDs: 166f0000
+    m_LastClickedID: 28438
+    m_ExpandedIDs: 00000000fa6e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -837,7 +837,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a64000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000fa6e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
