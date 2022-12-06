@@ -58,7 +58,7 @@ public class Player : MonoBehaviour
     {
         if (other.tag == "Enemy")
         {
-            rb.velocity = Vector2.up * speed;
+            rb.velocity = Vector2.right * 20;
         }
     }
 }
