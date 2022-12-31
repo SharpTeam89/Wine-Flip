@@ -17,7 +17,7 @@ public class BulletFly : MonoBehaviour
  
     void Update()
     {
-        transform.Translate(transform.right * speed * Time.deltaTime);
+        rb.velocity = transform.up * speed;
     }
 
     void DestroyG()
