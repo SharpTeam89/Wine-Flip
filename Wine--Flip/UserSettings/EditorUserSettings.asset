@@ -6,6 +6,7 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
+<<<<<<< HEAD
       value: 5652565f57045e0c0b565475432606444016417f7c7e25627e7f4c67e4b43669
       flags: 0
     RecentlyUsedSceneGuid-1:
@@ -22,15 +23,43 @@ EditorUserSettings:
       flags: 0
     RecentlyUsedSceneGuid-5:
       value: 5052075352035e0e095c5d27437b5c4443164d2e747876647a2b4a66b4e5376a
+=======
+      value: 570256025c0d5c0b5a0d59764777594414154c7a7f2e20352e2b4461e0b5376b
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5206065e5551510e5e580820447b5b4447154828747f23657a281f67e6b2626d
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 0557000507560d0d59580e7511740944104f1b7d7b7d7f367e2b4a67b5e23039
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5005065e5d0350585857592748270744134e19787f2b7e63287a4460e4b96668
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5652565f57045e0c0b565475432606444016417f7c7e25627e7f4c67e4b43669
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 01060d52545050585d595b7643730b44474e4d297c2a27647d701c65b5b26439
+>>>>>>> 9704a118fae8b096659e88aa910dcc9592f168e4
       flags: 0
     RecentlyUsedSceneGuid-6:
       value: 5b09000354500a0a0b0f0d2147255d44174f4028792e7669297c1c66e0b76160
       flags: 0
     RecentlyUsedSceneGuid-7:
+<<<<<<< HEAD
       value: 025751050054500d5e5b5c754175094446161a2b2f2e24627f7e1832b2e2603b
       flags: 0
     RecentlyUsedSceneGuid-8:
       value: 570256025c0d5c0b5a0d59764777594414154c7a7f2e20352e2b4461e0b5376b
+=======
+      value: 0707075703535b08085c597240715e4414154e2e2d79203178784d37bae1643d
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 025751050054500d5e5b5c754175094446161a2b2f2e24627f7e1832b2e2603b
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 505705075c055e0a550a5a2115745b44464e417a782d73617e2b1e30bbb7353e
+>>>>>>> 9704a118fae8b096659e88aa910dcc9592f168e4
       flags: 0
     RecentlyUsedSceneGuid-9:
       value: 0707075703535b08085c597240715e4414154e2e2d79203178784d37bae1643d
