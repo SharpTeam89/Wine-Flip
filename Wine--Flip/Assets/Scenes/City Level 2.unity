@@ -13171,7 +13171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GoalPosition: {fileID: 1019940759}
-  speed: 4
+  speed: 5
   speed2: 50
   minimumDistance: 4
   maximumDistance: 4
