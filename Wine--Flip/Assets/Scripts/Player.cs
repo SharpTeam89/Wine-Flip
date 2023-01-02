@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -14,6 +15,7 @@ public class Player : MonoBehaviour
     private Animator anim;
     public float speed;
     private Rigidbody2D rb;
+    public int Scene;
 
     void Start()
     {
@@ -58,7 +60,27 @@ public class Player : MonoBehaviour
     {
         if (other.tag == "Enemy")
         {
-            rb.velocity = Vector2.up * speed;
+            rb.velocity = Vector2.right * 20;
+        }
+
+        if (other.tag == "Enemy1")
+        {
+            rb.velocity = Vector2.left * 20;
+        }
+
+        if (other.tag == "Enemy2")
+        {
+            rb.velocity = Vector2.up * 20;
+        }
+
+        if (other.tag == "Enemy3")
+        {
+            rb.velocity = Vector2.down * 20;
+        }
+
+        if (other.tag == "Bullet")
+        {
+            SceneManager.LoadScene(Scene);
         }
     }
 }

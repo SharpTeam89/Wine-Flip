@@ -8,6 +8,7 @@ public class ResetScreen : MonoBehaviour
     public GameObject PlayerOB;
     public GameObject PlayerOBT;
     public GameObject ParticleOB;
+    public int Scene;
     
     void Start()
     {
@@ -25,7 +26,7 @@ public class ResetScreen : MonoBehaviour
         if (other.tag == "Player")
         {
            
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(Scene);
         }
     }
 

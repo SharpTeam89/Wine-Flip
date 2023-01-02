@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Default
+  - Enemy2
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -12,9 +15,9 @@ TagManager:
   - PostProcesing
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Destroy
+  - Lava
+  - "Sk\xE1la"
   - 
   - 
   - 
