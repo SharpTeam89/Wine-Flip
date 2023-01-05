@@ -14,10 +14,11 @@ public class EnemyCScript : MonoBehaviour
     public Transform OtherEnemy;
     public float EnemyDistance;
     public float EnemySpeed;
+    public bool Died;
 
     void Start()
     {
-        
+        Died = false;
     }
 
     
@@ -50,7 +51,7 @@ public class EnemyCScript : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-
+            Died = true;
             Destroy(gameObject);
             Instantiate(DeathParticle, transform.position, Quaternion.identity);
             Instantiate(Výbuch, transform.position, Quaternion.identity);
