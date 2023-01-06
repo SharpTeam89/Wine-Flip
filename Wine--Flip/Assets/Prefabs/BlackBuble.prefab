@@ -115,9 +115,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3f1537dc6a27614bb38c3437f84b8c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Scale: -0.0001
+  Scale: -0.0008
   SScale: 0.3
-  Speed: 0.005
+  Speed: 0.03
   P: {fileID: 6210571735076821545, guid: e0f7df08abe4e9148b3306f19fd70abe, type: 3}
   NST2: 1
   PlusOne: 0

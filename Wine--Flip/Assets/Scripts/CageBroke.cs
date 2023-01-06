@@ -7,7 +7,8 @@ public class CageBroke : MonoBehaviour
    
        
         public GameObject Lock;
-        public GameObject CageParticle;
+    public GameObject Blow;
+    public GameObject CageParticle;
 
     void Update()
     {
@@ -24,6 +25,7 @@ public class CageBroke : MonoBehaviour
 
     public void Destruction()
     {
+        Instantiate(Blow, transform.position, Quaternion.identity);
         Instantiate(CageParticle, transform.position, Quaternion.identity);
         Instantiate(Lock, transform.position, Quaternion.identity);
         Destroy(gameObject);

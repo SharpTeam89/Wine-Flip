@@ -14,16 +14,16 @@ public class KeyScript : MonoBehaviour
     public GameObject Particle;
     public GameObject Particle2;
     public float Touch;
-    private Animator anim;
+  
 
     void Start()
     {
-        anim = GetComponent<Animator>();
+        
         Touched = false;
         tPlayer = GameObject.FindWithTag("Player");
         GoalPosition = tPlayer.transform;
         Touch = 0; 
-        anim.SetBool("Touched", false);
+      
     }
 
     
@@ -57,7 +57,7 @@ public class KeyScript : MonoBehaviour
         {
             Touched = true;
             Touch += 1;
-            anim.SetBool("Touched", true);
+            
         }
 
         if (other.tag == "Cage")
