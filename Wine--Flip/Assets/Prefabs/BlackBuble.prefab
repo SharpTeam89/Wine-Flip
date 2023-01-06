@@ -116,7 +116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Scale: -0.0001
-  SScale: 0.2984485
+  SScale: 0.3
   Speed: 0.005
   P: {fileID: 6210571735076821545, guid: e0f7df08abe4e9148b3306f19fd70abe, type: 3}
   NST2: 1

@@ -8,6 +8,9 @@ TagManager:
   - Default
   - Enemy2
   - Bullet
+  - Crate
+  - Key
+  - Cage
   layers:
   - Default
   - TransparentFX
@@ -20,8 +23,8 @@ TagManager:
   - "Sk\xE1la"
   - Player
   - HraniceB
-  - 
-  - 
+  - Particles
+  - Keys
   - 
   - 
   - 
