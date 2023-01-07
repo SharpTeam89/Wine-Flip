@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class PointToTarget : MonoBehaviour
 {
-    public Transform target;
+    private Transform target;
+    private GameObject tPlayer;
 
     void Start()
     {
-        
+        tPlayer = GameObject.FindWithTag("ST");
+        target = tPlayer.transform;
     }
 
     

@@ -7,7 +7,7 @@ public class ResetScreen : MonoBehaviour
 {
     public GameObject PlayerOB;
     public GameObject PlayerOBT;
-    public GameObject ParticleOB;
+    
     public int Scene;
     
     void Start()

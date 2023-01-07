@@ -58,22 +58,22 @@ public class Player : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag == "Enemy")
+        if (other.tag == "Blow1")
         {
             rb.velocity = Vector2.right * 20;
         }
 
-        if (other.tag == "Enemy1")
+        if (other.tag == "Blow12")
         {
             rb.velocity = Vector2.left * 20;
         }
 
-        if (other.tag == "Enemy2")
+        if (other.tag == "Blow2")
         {
             rb.velocity = Vector2.up * 20;
         }
 
-        if (other.tag == "Enemy3")
+        if (other.tag == "Blow21")
         {
             rb.velocity = Vector2.down * 20;
         }

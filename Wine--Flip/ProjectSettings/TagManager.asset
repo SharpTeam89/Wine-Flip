@@ -11,6 +11,10 @@ TagManager:
   - Crate
   - Key
   - Cage
+  - ST
+  - Blow1
+  - Blow2
+  - Ground
   layers:
   - Default
   - TransparentFX

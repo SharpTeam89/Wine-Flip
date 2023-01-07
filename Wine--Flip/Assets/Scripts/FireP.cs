@@ -7,12 +7,14 @@ public class FireP : MonoBehaviour
     public GameObject FP;
     private float NST;
     public float NST2;
-    public Transform GoalPosition;
+    private Transform GoalPosition;
+    private GameObject tPlayer;
     public float minimumDistance;
 
     void Start()
     {
-        
+        tPlayer = GameObject.FindWithTag("ST");
+        GoalPosition = tPlayer.transform;
     }
 
     

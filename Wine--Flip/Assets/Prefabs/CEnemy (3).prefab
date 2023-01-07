@@ -77,7 +77,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc79cdfca643fc24aa659e30ee3b3832, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
 --- !u!114 &7005201787163659049
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -92,7 +91,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FP: {fileID: 5220872293399741821, guid: 2aa0003e73bdff945bc3af050a75c9a6, type: 3}
   NST2: 0.5
-  GoalPosition: {fileID: 0}
   minimumDistance: 7
 --- !u!1 &7005201787285509319
 GameObject:
@@ -223,7 +221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc79cdfca643fc24aa659e30ee3b3832, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
 --- !u!1 &7005201787732025947
 GameObject:
   m_ObjectHideFlags: 0
@@ -239,7 +236,7 @@ GameObject:
   - component: {fileID: 7005201787732026276}
   m_Layer: 3
   m_Name: CEnemy (3)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -330,7 +327,7 @@ MonoBehaviour:
   maximumDistance: 5
   speed: 2
   GoalPosition: {fileID: 0}
-  DeathParticle: {fileID: 7094966391381215078, guid: 58834b091d41e3944b1bb691d860dfcc, type: 3}
+  DeathParticle: {fileID: 7367412114751286558, guid: 908a8813b9ddae24d97e1027a185e130, type: 3}
   "V\xFDbuch": {fileID: 1937391223484913061, guid: 7dc632c8ff343f644a51842966bba1ff, type: 3}
   OtherEnemy: {fileID: 0}
   EnemyDistance: 3
@@ -743,7 +740,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc79cdfca643fc24aa659e30ee3b3832, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
 --- !u!1 &7005201788838415921
 GameObject:
   m_ObjectHideFlags: 0

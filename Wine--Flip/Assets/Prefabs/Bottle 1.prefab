@@ -434,8 +434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerOB: {fileID: 0}
   PlayerOBT: {fileID: 0}
-  ParticleOB: {fileID: 0}
-  Scene: 4
+  Scene: 3
 --- !u!1 &6312020165983695708
 GameObject:
   m_ObjectHideFlags: 0
